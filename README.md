@@ -1,1 +1,3 @@
-# Word-Cloud-Generator
+# Word Cloud Generator
+
+Coming soon
