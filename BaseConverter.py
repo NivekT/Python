@@ -1,4 +1,4 @@
-# 33377223 26677 333328333366 444777 80004444447 4441113333
+# 33377223 # 26677 # 333328333366 # 444777 # 80004444447 # 4441113333
 
 # A test case that I used
 ls = ["33377223","26677","333328333366","444777","80004444447","4441113333"]
@@ -13,7 +13,7 @@ def dig_to_char(n):
 
 # Converts a number in decimal to a number in a given base (returns a string)
 def str_base(n,b):
-    if number < 0:
+    if n < 0:
         return '-' + str_base(-n,b)
     else:
         (d,r) = divmod(n,b)
